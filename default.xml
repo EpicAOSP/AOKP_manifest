@@ -187,7 +187,7 @@
   <project path="external/strace" name="platform/external/strace" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/svox" name="platform/external/svox" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/tagsoup" name="platform/external/tagsoup" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="external/tcpdump" name="android_external_tcpdump" remote="cm" />
+  <project path="external/tcpdump" name="android_external_tcpdump" remote="cm" revision="refs/heads/ics""/>
   <project path="external/tinyalsa" name="platform/external/tinyalsa" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/tinyxml" name="platform/external/tinyxml" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/tremolo" name="AOKP/external_tremolo" remote="gh" revision="ics" />
@@ -227,7 +227,7 @@
   <project path="hardware/qcom/gps" name="AOKP/hardware_qcom_gps" remote="gh" revision="ics" />
   <project path="hardware/qcom/media" name="AOKP/android_hardware_qcom_media" remote="gh" revision="ics" />
   <project path="hardware/ril" name="AOKP/android_hardware_ril" remote="gh" revision="ics" />
-  <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" />
+  <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="refs/heads/ics" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="hardware/ti/wlan" name="AOKP/android_hardware_ti_wlan" remote="gh" revision="ics" />
