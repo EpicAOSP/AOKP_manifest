@@ -62,7 +62,7 @@
   <project path="device/samsung/epic4gtouch" name="chris41g/android_device_samsung_epic4gtouch" remote="gh" revision="master"/>
   <project path="device/samsung/fascinatemtd" name="AOKP/device_samsung_fascinatemtd" remote="gh" revision="ics" />
   <project path="device/samsung/galaxysmtd" name="AOKP/device_samsung_galaxysmtd" remote="gh" revision="ics" />
-  <project path="device/samsung/galaxysmtd" name="AOKP/android_device_samsung_hercules" remote="gh" revision="ics" />
+  <project path="device/samsung/hercules" name="AOKP/android_device_samsung_hercules" remote="gh" revision="ics" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="ics" />
   <project path="device/samsung/mesmerizemtd" name="AOKP/android_device_samsung_mesmerizemtd" remote="gh" revision="ics" />
   <project path="device/samsung/p4" name="AOKP/device_samsung_p4" remote="gh" revision="ics" />
