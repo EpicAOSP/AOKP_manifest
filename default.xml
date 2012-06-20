@@ -321,6 +321,7 @@
   <project path="vendor/samsung/epic4gtouch" name="chris41g/proprietary_samsung_epic4gtouch" remote="git" revision="master" />
 
   <project path="external/busybox" name="android_external_busybox" remote="cm" revision="ics" />
+  <project path="system/su" name="chris41g/android_supersu" remote="gh" revision="ics" />
   <project path="packages/apps/ROMControl" name="AOKP/packages_apps_ROMControl" remote="gh" revision="ics" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="cm" revision="ics" />
   <project path="packages/apps/GanOptimizer" name="android_packages_apps_GanOptimizer" remote="cm" revision="gb-release-7.2" />
