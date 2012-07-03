@@ -335,6 +335,6 @@
   <project name="android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="refs/heads/ics" remote="cm" />
   <project name="android_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" revision="refs/heads/ics" remote="cm" />
 
-  <project path="platform_manifest" name="AOKP/platform_manifest" remote="gh" revision="ics" />
+  <project path="AOKP_manifest" name="EpicAOSP/AOKP_manifest" remote="gh" revision="ics" />
 
 </manifest>
