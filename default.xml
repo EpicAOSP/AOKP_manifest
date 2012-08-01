@@ -330,7 +330,7 @@
   <project path="packages/apps/AppWidgetPicker" name="AOKP/packages_apps_AppWidgetPicker" remote="gh" revision="ics" />
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers" remote="gh" revision="ics" />
   <project path="packages/apps/GooManager" name="solarnz/GooManager_prebuilt" remote="git" revision="master" />
-  <project path="e4gttools" name="EpicCM/e4gttools" remote="git" revision="aokp" />
+  <project path="e4gttools" name="EpicCM/e4gttools" remote="gh" revision="ics" />
   <project name="EpicAOSP/android_kernel_samsung_epic4gtouch" path="kernel/samsung/epic4gtouch" remote="gh" revision="ics" />
   <project name="themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="refs/heads/ics" remote="cm" />
   <project name="android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" revision="refs/heads/ics" remote="cm" />
